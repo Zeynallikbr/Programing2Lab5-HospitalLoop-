@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Programing2\HomeTask5\TASK(TEST PILOT)\TestPilotApp\TestPilotApp\bin\Debug\net8.0\TestPilotApp.exe
+C:\Users\Admin\Desktop\Programing2\HomeTask5\TASK(TEST PILOT)\TestPilotApp\TestPilotApp\bin\Debug\net8.0\TestPilotApp.deps.json
+C:\Users\Admin\Desktop\Programing2\HomeTask5\TASK(TEST PILOT)\TestPilotApp\TestPilotApp\bin\Debug\net8.0\TestPilotApp.runtimeconfig.json
+C:\Users\Admin\Desktop\Programing2\HomeTask5\TASK(TEST PILOT)\TestPilotApp\TestPilotApp\bin\Debug\net8.0\TestPilotApp.dll
+C:\Users\Admin\Desktop\Programing2\HomeTask5\TASK(TEST PILOT)\TestPilotApp\TestPilotApp\bin\Debug\net8.0\TestPilotApp.pdb
+C:\Users\Admin\Desktop\Programing2\HomeTask5\TASK(TEST PILOT)\TestPilotApp\TestPilotApp\obj\Debug\net8.0\TestPilotApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programing2\HomeTask5\TASK(TEST PILOT)\TestPilotApp\TestPilotApp\obj\Debug\net8.0\TestPilotApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programing2\HomeTask5\TASK(TEST PILOT)\TestPilotApp\TestPilotApp\obj\Debug\net8.0\TestPilotApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programing2\HomeTask5\TASK(TEST PILOT)\TestPilotApp\TestPilotApp\obj\Debug\net8.0\TestPilotApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programing2\HomeTask5\TASK(TEST PILOT)\TestPilotApp\TestPilotApp\obj\Debug\net8.0\TestPilotApp.dll
+C:\Users\Admin\Desktop\Programing2\HomeTask5\TASK(TEST PILOT)\TestPilotApp\TestPilotApp\obj\Debug\net8.0\refint\TestPilotApp.dll
+C:\Users\Admin\Desktop\Programing2\HomeTask5\TASK(TEST PILOT)\TestPilotApp\TestPilotApp\obj\Debug\net8.0\TestPilotApp.pdb
+C:\Users\Admin\Desktop\Programing2\HomeTask5\TASK(TEST PILOT)\TestPilotApp\TestPilotApp\obj\Debug\net8.0\TestPilotApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programing2\HomeTask5\TASK(TEST PILOT)\TestPilotApp\TestPilotApp\obj\Debug\net8.0\ref\TestPilotApp.dll
